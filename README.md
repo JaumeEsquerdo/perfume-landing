@@ -4,7 +4,9 @@ landing de perfumes para probar tanto animaciones como typescript
 
 ## Goal
 
-La intención es aprovechar el proyecto final de modulo de UX/UI  para hacer el boceto completo de lo que puede ser una pagina web con MUCHAS animaciones, y muy currada en lo estético, en comparación a otros proyectos que tengo. Lo cual me viene muy bien tanto para realizar el TFM como para completar proyectos para mi portfolio. 
+La intención es aprovechar el proyecto final del modulo de UX/UI, del máster que estoy realizando durante estos meses, Bootcamp de Desarrollo Web, UX y UI , que se necesitan 40h dedicadas para ser aceptado, para hacer el boceto completo de lo que puede ser una pagina web con MUCHAS animaciones, y muy currada en lo estético, en comparación a otros proyectos que tengo. Lo cual me viene muy bien tanto para realizar el TFM como para completar proyectos para mi portfolio. 
+
+Y así en acabar el proyecto de UX/UI tener todo el boceto para pasarlo a código.
 
 ## Por qué de la página?
 
